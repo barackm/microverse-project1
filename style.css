@@ -37,6 +37,7 @@ span {
   width: 80%;
   margin-top: 40px;
   margin-bottom: 25px;
+  max-width: 80%;
 }
 #img-caption {
   font-size: 17px;
