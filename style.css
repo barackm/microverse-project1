@@ -66,3 +66,35 @@ span {
 p i {
   font-size: 16px;
 }
+@media (max-width: 768px) {
+  #title {
+    font-size: 25px;
+    margin-top: 50px;
+    font-weight: 700;
+  }
+  #tribute-info ul li {
+    font-size: 16px;
+  }
+  #img-caption {
+    font-size: 16px;
+    margin-bottom: 30px;
+  }
+  #main p {
+    font-size: 16px;
+  }
+}
+
+@media (max-width: 480px) {
+  #title {
+    font-size: 20px;
+    margin-top: 50px;
+    font-weight: 700;
+  }
+  #tribute-info ul li {
+    font-size: 14px;
+  }
+  #img-caption {
+    font-size: 14px;
+    margin-bottom: 30px;
+  }
+}
